@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
-description:
-author: John Doe
-language:
+title: X&&Y
+subtitle: X||Y
+description: 我会写博客吗？
+author: XY
+language: zh
 timezone:
 
 # URL
@@ -63,11 +63,12 @@ pagination_dir: page
 # Extensions
 ## Plugins: http://hexo.io/plugins/
 ## Themes: http://hexo.io/themes/
-theme: landscape
+##theme: landscape
+theme: hexo-theme-next
 
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
-  type: github
+  type: git
   respsitory: git@github.com:xy/xy.github.io.git
   branch: master
