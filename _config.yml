@@ -70,5 +70,5 @@ theme: hexo-theme-next
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:xy/xy.git
-  branch: gh-pages
+  repo: git@github.com:xy/xy.github.io.git
+  branch: master
