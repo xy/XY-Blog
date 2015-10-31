@@ -70,4 +70,4 @@ theme: landscape
 deploy:
   type: github
   respsitory: git@xy.github.com:xy/xy.github.io.git
-      branch: master
+  branch: master
