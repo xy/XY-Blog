@@ -1,9 +1,13 @@
 title: Hexo on Github
 date: 2015-11-01 01:36:33
-tags:
+tags: hexo blog
 ---
 
 # 在 Github 中搭建 Hexo 博客
+
+## 安装
+参考[官网](https://hexo.io/)
+
 ## 部署步骤
 ``` bash
 hexo clean
@@ -24,7 +28,6 @@ hexo s == hexo server
 hexo d == hexo deploy
 ```
 
-
-
+对 hexo server -p 8080 可以修改运行端口。
 # 引用
 * http://www.cnblogs.com/zhcncn/p/4097881.html
