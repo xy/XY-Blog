@@ -31,3 +31,4 @@ hexo d == hexo deploy
 对 hexo server -p 8080 可以修改运行端口。
 # 引用
 * http://www.cnblogs.com/zhcncn/p/4097881.html
+* [next主题设置](http://theme-next.iissnan.com/)
