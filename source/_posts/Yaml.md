@@ -1,6 +1,6 @@
-title: yaml
+title: Yaml
 date: 2016-03-3 22:34:44
-tags: 工具
+tags: 工具, 标记语言
 ---
 
 # yaml

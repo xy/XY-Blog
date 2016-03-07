@@ -14,6 +14,25 @@ Angular 包括 1.x , 2.x 两个版本。其中 1.x 为原生JS, 2.x 通过 TypeJ
 # 1.x 文档
 https://docs.angularjs.org/guide
 
+#Angularjs 1.x 学习
+#Angular学习链接
+##phone-cat
+这是一个官方的客户端实现购物车的功能，可以了解到页面的布局，页面跳转等知识。
+* [phone-cat](https://docs.angularjs.org/tutorial)的官方例子。
+* [phone-cat](http://www.ituring.com.cn/minibook/303)中文翻译.*部分内容过时*
+* Jasmine行为驱动开发（BBD）框架
+
+#Angularjs 2.x 学习
+angular2 与第一版本差别大，并且使用了非原生的js开发。需要等项目有一定成熟度后再使用。
+##相关链接
+* [angular 2.0 官网](https://angular.io/)
+* [angular 2.0 5 分钟](https://angular.io/docs/js/latest/quickstart.html)
+* [ECMAScript 6入门](http://es6.ruanyifeng.com/)
+* [ES6转ES5](https://github.com/google/traceur-compiler)
+* [traceur在线转换](http://google.github.io/traceur-compiler/demo/repl.html#)
+* [babeljs 另一种转换工具](https://babeljs.io/)
+
+
 # [Angularjs 代码风格](https://github.com/johnpapa/angular-styleguide)
 * [中文](https://github.com/johnpapa/angular-styleguide/blob/master/i18n/zh-CN.md)
 

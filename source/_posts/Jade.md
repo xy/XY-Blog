@@ -1,6 +1,6 @@
 title: Jade
 date: 2015-12-01 21:34:44
-tags: jade
+tags: jade, html
 ---
 
 # Jade 学习记录

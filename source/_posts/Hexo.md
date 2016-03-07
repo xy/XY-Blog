@@ -1,12 +1,12 @@
-title: Hexo on Github
+title: Hexo
 date: 2015-11-01 01:36:33
-tags: hexo blog
+tags: hexo;blog
 ---
 
 # 在 Github 中搭建 Hexo 博客
 
 ## 安装
-参考[官网](https://hexo.io/)
+参考[官网](https://hexo.io/), [中文文档](https://hexo.io/zh-cn/docs/),[插件使用](https://hexo.io/zh-cn/docs/tag-plugins.html)
 
 ## 部署步骤
 ``` bash

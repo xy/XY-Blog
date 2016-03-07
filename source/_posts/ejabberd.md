@@ -1,8 +1,8 @@
-title: yaml
+title: Ejabberd
 date: 2016-03-3 23:34:44
-tags: 软件
+tags: xmpp
 ---
-＃ejabberd
+# ejabberd
 ejabberd 是 xmpp 协议的 elang 编写的聊天服务器。
 
 ## 安装
